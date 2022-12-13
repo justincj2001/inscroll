@@ -135,4 +135,4 @@
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 <p>20. <b>Contact Us</b></p>
 <p>If you have any questions about this Privacy Policy, please contact us by email: <b>inscroll@zohomail.in</b>.</p>
-<p style="margin-top: 5em; font-size: 0.7em;">This <a href="https://policymaker.io/privacy-policy/">Privacy Policy</a> was created for <b>inscroll.in</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-12-05.</p>
+
